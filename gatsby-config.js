@@ -1,8 +1,9 @@
 module.exports = {
+  pathPrefix: "/databings",
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `DataBings`,
+    description: `Página de contacto y promoción de DataBings`,
+    author: `@Pimentell`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
