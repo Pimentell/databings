@@ -11,7 +11,7 @@ const About = () => (
         </h1>
         <p>
             DataBings es un proyecto enfocado en la creación de contenido en español para la comunidad de Machine Learning. 
-            Nuestro principal objetivo
+            Nuestro principal objetivo test de nuevo deploiment
         </p>
     </Layout>
 )
